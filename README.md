@@ -8,7 +8,9 @@ Metoda: Get
 Przykładowy request: brak
 
 Przykładowy response: 
+
 {
+
     "credits": [
         {
             "credit": {
@@ -47,6 +49,7 @@ Przykładowy response:
             }
         }
     ]
+    
 }
 
 
@@ -58,7 +61,9 @@ Metoda: Post
 
 
 Przykładowy request:
+
 {
+
             "credit": {
                 "creditName": "Testowy kredyt 3",
                 "value": 40000.00
@@ -73,5 +78,6 @@ Przykładowy request:
 Przykładowy response:
 
 {
+
     "creditId": 3
 }
