@@ -1,0 +1,1 @@
+insert into credit(creditName, customerID, creditValue) values ('test', 1, 20000.00);
