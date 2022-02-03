@@ -1,4 +1,4 @@
-Ścieżka do skryptu bazy danych: credit\src\main\resources\dbscript
+Ścieżka do skryptu bazy danych: credit/src/main/resources/dbscript
 
 Przykłady wywołań:
 1. getCredit
